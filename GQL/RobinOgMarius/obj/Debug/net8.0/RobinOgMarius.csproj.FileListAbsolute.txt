@@ -1,0 +1,69 @@
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.exe
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.deps.json
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.runtimeconfig.json
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.dll
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.pdb
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.AssemblyInfoInputs.cache
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.AssemblyInfo.cs
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.csproj.CoreCompileInputs.cache
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.dll
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\refint\RobinOgMarius.dll
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.pdb
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.genruntimeconfig.cache
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\ref\RobinOgMarius.dll
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.csproj.AssemblyReference.cache
+C:\Users\78285olahan\source\repos\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.csproj.CopyComplete
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.exe
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.deps.json
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.runtimeconfig.json
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.pdb
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.csproj.AssemblyReference.cache
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.AssemblyInfoInputs.cache
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.AssemblyInfo.cs
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.csproj.CoreCompileInputs.cache
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.csproj.CopyComplete
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\refint\RobinOgMarius.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.pdb
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.genruntimeconfig.cache
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\ref\RobinOgMarius.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.sourcelink.json
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\GraphQL.Client.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\GraphQL.Client.Abstractions.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\GraphQL.Client.Abstractions.Websocket.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\GraphQL.Common.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\GraphQL.Primitives.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\RobinOgMarius\RobinOgMarius\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.exe
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.deps.json
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.runtimeconfig.json
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\RobinOgMarius.pdb
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\GraphQL.Client.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\GraphQL.Client.Abstractions.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\GraphQL.Client.Abstractions.Websocket.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\GraphQL.Common.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\GraphQL.Primitives.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.csproj.AssemblyReference.cache
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.AssemblyInfoInputs.cache
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.AssemblyInfo.cs
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.csproj.CoreCompileInputs.cache
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.sourcelink.json
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.csproj.CopyComplete
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\refint\RobinOgMarius.dll
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.pdb
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\RobinOgMarius.genruntimeconfig.cache
+C:\Users\Marius Gjøra\OneDrive\Skrivebord\GQL\RobinOgMarius\obj\Debug\net8.0\ref\RobinOgMarius.dll
